@@ -5,7 +5,7 @@ Simple command-line adaptation of the infamous [Matrix digital rain](https://en.
 Compilation
 ===========
 
-> This version uses some UNIX system headers.
+> This version uses some UNIX system headers.  
 > It thus won't compile on Windows, but will probably get changed in the future.
 
 Using CMake : 
