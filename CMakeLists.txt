@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.9)
-project(game-of-life)
+project(matrix-rain)
 
 # Choose C++ standard
 set(CMAKE_CXX_STANDARD 17)
